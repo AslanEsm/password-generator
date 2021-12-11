@@ -1,0 +1,20 @@
+.container {
+  font-family: yek;
+}
+
+h1.title.has-text-centered {
+  margin-top: 20px;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+}
+
+.checkbox input {
+  margin-left: 5px;
+}
+
+.button {
+  align-items: baseline;
+}
